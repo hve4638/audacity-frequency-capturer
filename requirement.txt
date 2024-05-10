@@ -1,0 +1,8 @@
+pyautogui
+Pillow
+pygetwindow
+psutil
+pywin32
+opencv-python
+mouse
+pytesseract
